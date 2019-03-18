@@ -7,3 +7,4 @@ keyword_processor.add_keyword('Jamaica', 'J Town')
 
 new_sentence = keyword_processor.replace_keywords(string)
 print(new_sentence)
+# should replace Jamaica with J Town, mon.
