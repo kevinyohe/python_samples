@@ -1,7 +1,7 @@
 from collections import deque
 
 
-a = deque('FUCKING OWNED LAMERZZZ!!!')
+a = deque('THE GOOD OLD DAYS OF SCROLLERS!!!')
 
 for x in range(1,30000):
     letter = a.pop()
